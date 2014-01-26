@@ -1,0 +1,46 @@
+{
+    "hello": {
+        "image": ":/menu/resourse/logo.png",
+        "button_1": "",
+        "button_2": "",
+        "button_3": "",
+        "button_4": "",
+        "answer": "button_1"
+    },
+    "lvl_1": {
+        "image": ":/level/resourse/level1_a.png",
+        "button_1": ":/level/resourse/levl1_1.png",
+        "button_2": ":/level/resourse/levl1_2.png",
+        "button_3": ":/level/resourse/levl1_3.png",
+        "button_4": ":/level/resourse/levl1_4.png",
+        "answer": "button_1",
+        "image_answer": ":/level/resourse/level1_b.png"
+    },
+    "lvl_2": {
+        "image": ":/level/resourse/level2_a.png",
+        "button_1": ":/level/resourse/level2_1.png",
+        "button_2": ":/level/resourse/level2_2.png",
+        "button_3": ":/level/resourse/level2_3.png",
+        "button_4": ":/level/resourse/level2_4.png",
+        "answer": "button_3",
+        "image_answer": ":/level/resourse/level2_b.png"
+    },
+    "lvl_3": {
+        "image": ":/level/resourse/level3_a.png",
+        "button_1": ":/level/resourse/level3_1.png",
+        "button_2": ":/level/resourse/level3_2.png",
+        "button_3": ":/level/resourse/level3_3.png",
+        "button_4": ":/level/resourse/level3_4.png",
+        "answer": "button_4",
+        "image_answer": ":/level/resourse/level3_b.png"
+    },
+    "lvl_4": {
+        "image": ":/level/resourse/level4_a.png",
+        "button_1": ":/level/resourse/level4_1.png",
+        "button_2": ":/level/resourse/level4_2.png",
+        "button_3": ":/level/resourse/level4_3.png",
+        "button_4": ":/level/resourse/level4_4.png",
+        "answer": "button_2",
+        "image_answer": ":/level/resourse/level4_b.png"
+    }
+}
